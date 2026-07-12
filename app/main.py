@@ -1,5 +1,6 @@
 import json
 import xml.etree.ElementTree as ET
+from app.book import Book
 
 
 class Book:
